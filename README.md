@@ -1,9 +1,8 @@
 # 🧙‍♂️ Dashboard Overview – Harry Potter Movies Rating
 This Power BI dashboard showcases insights gathered from Harry Potter movie fans across various countries. Here's a breakdown of each visual element and what it represents:
+![Harry Potter Dashboard](Images/HarryPotterDashboard.png)
 
---
-
-## 📊Dashbaord overview
+## 📊Dashbaord breakdown
 
 ### 🔢 KPI Cards
 -**Average of Rating**: 4
