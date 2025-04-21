@@ -13,7 +13,7 @@ This Power BI dashboard showcases insights gathered from Harry Potter movie fans
 
 ## 📈 Harry Potter Rating Over a Year
 The line chart shows monthly rating trends over a year.
-- This visual helps identify spikes or drops in user engagement and interest, e.g., a noticeable peak in August suggests a possible release or event.
+- This line charts shows spikes or drops in fan engagement and interest. August has the highested number (54) of movie ratings by fans,suggesting a possible movie release.
 
 ## 🌍 Harry Potter Fans Country Distribution
 Map Visual with geo-bubbles indicating user presence in various countries.
