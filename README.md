@@ -5,17 +5,14 @@ This Power BI dashboard showcases insights gathered from Harry Potter movie fans
 ## 📊Dashbaord breakdown
 
 ### 🔢 KPI Cards
--**Average of Rating**: 4
-Represents the average rating out of 5 given by users for the Harry Potter movies.
+-**Average Rating**: The average rating of the movies is 4 out of 5, this indicates that fans had a positive experience with the movies  
 
--**NPS (Net Promoter Score)**: 60
-A score that indicates overall user loyalty. A score of 60 suggests that a large majority of users are promoters (highly satisfied).
+-**NPS (Net Promoter Score)**: The NPS score of 60 suggests that a large majority of fans are loyal to the Harry Potter franchise and are therefore likely to recommend Harry Potter movies to friends or collegues (highly satisfied).
 
--**CSAT (Customer Satisfaction Score)**: 0.76%
-Measures the percentage of users who reported being satisfied with the movies. The low score could indicate either a data anomaly or poor sentiment capture.
+-**CSAT (Customer Satisfaction Score)**: A CSAT of 76% indicates that a strong majority of fans are satisfied with the Harry Potter movies, though there's room to improve sentiment among a quarter of the audience. 
 
 ## 📈 Harry Potter Rating Over a Year
-Line Chart showing monthly rating trends throughout the year.
+The line chart shows monthly rating trends over a year.
 - This visual helps identify spikes or drops in user engagement and interest, e.g., a noticeable peak in August suggests a possible release or event.
 
 ## 🌍 Harry Potter Fans Country Distribution
