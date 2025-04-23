@@ -9,15 +9,13 @@ This Power BI dashboard showcases insights gathered from Harry Potter movie fans
 
 -**NPS (Net Promoter Score)**: The NPS score of 60 suggests that a large majority of fans are loyal to the Harry Potter franchise and are therefore likely to recommend Harry Potter movies to friends or collegues (highly satisfied).
 
--**CSAT (Customer Satisfaction Score)**: A CSAT of 76% indicates that a strong majority of fans are satisfied with the Harry Potter movies, though there's room to improve sentiment among a quarter of the audience. 
+-**CSAT (Customer Satisfaction Score)**: A CSAT of 71% indicates that a strong majority of fans are satisfied with the Harry Potter movies, though there's room to improve sentiment among a quarter of the audience. 
 
 ## 📈 Harry Potter Rating Over a Year
-The line chart shows monthly rating trends over a year.
-- This line charts shows spikes or drops in fan engagement and interest. August has the highested number (54) of movie ratings by fans,suggesting a possible movie release.
+The line chart shows average monthly rating trends over four years.
 
 ## 🌍 Harry Potter Fans Country Distribution
-Map Visual with geo-bubbles indicating user presence in various countries.
-- Each bubble size corresponds to the volume of users from that country, helping to visualise fan distribution across Europe and nearby regions.
+Map Visual with geo-bubbles indicating user presence in various European countries 
 
 ## 👩‍🦰 Harry Potter Fans by Country and Gender
 Stacked Bar Chart segmented by gender (Female, Male, Other)
@@ -31,8 +29,8 @@ Top liked characters include:
 - Harry Potter (73)
 - Rubeus Hagrid (62)
 
-Ron Weasley is highlighted as the most liked character.
-The least liked character field shows (Blank), as no data was captured.
+- Ron Weasley is highlighted as the most liked character.
+- Draco Malfoy is the least liked character.
 
 ## 🎯 Insights & Takeaways
 - Ron Weasley is the fan-favorite, followed closely by Hermione Granger and Harry Potter.
